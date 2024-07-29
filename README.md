@@ -9,17 +9,16 @@
   <hr>
 </h1>
 
-
 # Web Package (RTL)
 
 If you want A Full Web Package Direction RTL that is usefull For WebPages easy to use and Sorted by folders - This package is usefull for you ... :)
 
-
 ## How use it?
-You can download As zip and use any package you need for your website . 
-+ install npm package for all packages:
-    + `npm install`
 
+You can download As zip and use any package you need for your website .
+
+- install npm package for all packages:
+  - `npm install`
 
 # Demo
 
@@ -72,28 +71,24 @@ You can download As zip and use any package you need for your website .
 <a href="https://github.com/4xmen/Web-Package-RTL/tree/main/template-1"><img src="template-1/xmen-template.png" alt="Full-Template-1" width="1010px"></a>
 </div>
 
-
-
 ## Features
 
-
-| name  | default  |  action  |
-| ------------ | ------------ | ------------ |
-| responseWidth  |  `1024`  |  active mobile mode (side menu)  |
-| barsIcon |  -  |  any html element use for toggle bar   |
-| mainTitle  | `Navbar menu`  | change main menu title   |
-| isRtl  |  `True` |  Default Rtl |
-|  blurEffect | `false`  |  blur effect when menu active |
-|  resetMenu | `true`  | reset side menu when close  |
-|  disableLinks | `true`  | disable links when has sub menu click event otherwise on mouse enter show sub level   |
-
-
-
+| name          | default       | action                                                                              |
+| ------------- | ------------- | ----------------------------------------------------------------------------------- |
+| responseWidth | `1024`        | active mobile mode (side menu)                                                      |
+| barsIcon      | -             | any html element use for toggle bar                                                 |
+| mainTitle     | `Navbar menu` | change main menu title                                                              |
+| isRtl         | `True`        | Default Rtl                                                                         |
+| blurEffect    | `false`       | blur effect when menu active                                                        |
+| resetMenu     | `true`        | reset side menu when close                                                          |
+| disableLinks  | `true`        | disable links when has sub menu click event otherwise on mouse enter show sub level |
 
 ## Report Some Bugs
+
 Find a Bug? Please, [create an issue,](https://github.com/4xmen/Web-Package-RTL/issues) and we'll fix it together for a better template.
 
 ## Contribution
+
 Contribution are always welcome and recommended! Here is how:
 
 - Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
@@ -114,12 +109,10 @@ Contribution are always welcome and recommended! Here is how:
 
 </div>
 
-
 ## License
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/GNU)
 
 [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
 
 <div align="center"> Developed With Love For Iranian's ! ❤️</div>
